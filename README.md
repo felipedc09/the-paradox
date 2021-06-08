@@ -1,2 +1,2 @@
-# games-the-paradox
+# The paradox
 Game to Patzi GameJam
